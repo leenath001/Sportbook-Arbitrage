@@ -1,5 +1,5 @@
 # Sportbook-Arbitrage
-Strategy attempts to take advantage of line mispricing across sportsbooks. This code aims to (1) identify mispricings, (2) calculate optimal allocation, and (3) place bets across multiple books. 
+Strategy attempts to take advantage of line mispricing across sportsbooks. This code aims to (1) identify mispricings, (2) calculate optimal allocation, and (3) place bets across multiple books. IN PROGRESS
 
 ## Strategy  
 Suppose we have a tennis match between Nate and Amy with the following odds from different books: 
