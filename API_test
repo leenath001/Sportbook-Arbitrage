@@ -4,7 +4,7 @@
 import requests
 import json
 
-API_KEY = "f0e9117ec8b8945b58645faa668ef3df"
+API_KEY = 'key'
 #ACTIVE = "false"
 #SPORT = 'americanfootball_ncaaf'
 #REGIONS = 'us'
